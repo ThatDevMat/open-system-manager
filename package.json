@@ -1,0 +1,19 @@
+{
+  "name": "open-system-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mat2567/open-system-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mat2567/open-system-manager/issues"
+  },
+  "homepage": "https://github.com/mat2567/open-system-manager#readme"
+}
